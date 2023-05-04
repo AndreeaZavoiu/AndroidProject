@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "480865230926",
+    "firebase_url": "https://androidproject-b82cb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "androidproject-b82cb",
+    "storage_bucket": "androidproject-b82cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480865230926:android:ef13b2eac36740b1e0a31f",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480865230926-0kidlmmgn9lmc2mckgpod1ggd98dsr7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDre1esZRRes1_0Ckcky4OLml5io1FJ1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480865230926-0kidlmmgn9lmc2mckgpod1ggd98dsr7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480865230926:android:9cf7053d3f70754ae0a31f",
+        "android_client_info": {
+          "package_name": "com.example.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480865230926-0kidlmmgn9lmc2mckgpod1ggd98dsr7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDre1esZRRes1_0Ckcky4OLml5io1FJ1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480865230926-0kidlmmgn9lmc2mckgpod1ggd98dsr7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480865230926:android:93369241bd1b41d5e0a31f",
+        "android_client_info": {
+          "package_name": "com.example.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480865230926-0kidlmmgn9lmc2mckgpod1ggd98dsr7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDre1esZRRes1_0Ckcky4OLml5io1FJ1FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480865230926-0kidlmmgn9lmc2mckgpod1ggd98dsr7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
