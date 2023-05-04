@@ -28,5 +28,11 @@ public class Utility {
         return new SimpleDateFormat("MM/dd/yyyy").format(timestamp.toDate());
     }
 
+
+    static CollectionReference getCollectionReferenceForImage(){
+        FirebaseUser currentUser = FirebaseAuth.getInstance().getCurrentUser();
+        return FirebaseFirestore.getInstance().collection("images")
+                .document(currentUser.getUid()).collection("my_images");
+    }
 }
 
